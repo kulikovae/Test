@@ -33,3 +33,4 @@ fi
 sudo systemctl start neard
 
 echo "NEAR node was started"
+
